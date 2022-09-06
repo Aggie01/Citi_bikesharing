@@ -1,8 +1,5 @@
 # NYC Citi Bike Data (August 2019)
 
-![]()
-
-
 ## Overview: 
 Generate visualizations from the NYC Citi Bike data to help explore the possibility of bike – sharing program in Des Moines
 
