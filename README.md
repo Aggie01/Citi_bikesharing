@@ -1,6 +1,6 @@
 # NYC Citi Bike Data (August 2019)
 
-![](![](Citi_bikesharing/blob/main/citibike.jpg))
+![]()
 
 
 ## Overview: 
