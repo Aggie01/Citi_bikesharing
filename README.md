@@ -1,6 +1,6 @@
 # NYC Citi Bike Data (August 2019)
 
-![](Candidates%20election%20results.png)
+![](![](Citi_bikesharing/blob/main/citibike.jpg))
 
 
 ## Overview: 
