@@ -40,4 +40,5 @@ Male subscriber’s category communicates the heaviest “user trips” througho
 -	Understand customers’ resistance to subscriptions
 -	Monitor subscribers’ needs and desires so they become longtime program loyalists
 
-  [link to dashboard](
+  [link to dashboard](https://public.tableau.com/app/profile/aggie.jasinski/viz/Challenge14-checkouttimesbyGender/NYCCitiBikeStory?publish=yes)
+  
