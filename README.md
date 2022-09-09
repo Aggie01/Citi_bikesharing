@@ -62,10 +62,14 @@ Male subscriber’s category communicates the heaviest “user trips” througho
 -	Introduce strong customer incentives that would help turn users into subscribers
 -	Understand customers’ resistance to subscriptions
 -	Monitor subscribers’ needs and desires so they become longtime program loyalists
-- Future analysis of gender driven subscriptions is suggested. "What are the expectations that females vs males have that make one group outnumber the other as subscribers?"
+- Future analysis of gender driven subscriptions is suggested. "What are the gender driven program expectations that  make one group outnumber the other as subscribers?"
 
 ![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Gender_by_UserType.jpg?raw=true)
 ![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Gender_by_UserType2.jpg?raw=true)
+
+- Exploring gender vs peak hours: "Why does the bike-sharing program see the peak hours soar with males leaving female group behind?" Gender could play a key role in overall bike-sharing program success.
+
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Peak_Hours_by_Gender.jpg?raw=true)
 
   
   
