@@ -41,7 +41,8 @@ Mondays and Tuesdays from 5pm to 6pm show the most bike trips.  Thursdays and Fr
 6.	“Trips by Gender (weekday per hour) heat map
 Overall males exhibit more trip activity.  There is a visible trip consistency per weekday per hour.  Monday to Friday 8am and 5pm to 6pm are the busiest times for the male bikers.  Females mimic that schedule; however, with less “intensity.”
 
-![](https://github.com/Aggie01/Citi_bikesharing/blob/main/UserType2.jpg?raw=true))
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Trips_by_Gender_Females.jpg?raw=true)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Trips_by_Gender_Females.jpg?raw=true)
   
 7.	“User trips by Gender by Weekday heat map -
 Male subscriber’s category communicates the heaviest “user trips” throughout an entire week (Sunday to Saturday).
