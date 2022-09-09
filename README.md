@@ -15,7 +15,7 @@ User Type pie chart reveals that there are significantly more “subscribers” 
 
 ![](blob/main/UserType1.jpg)
 
-![](Candidates%20election%20results.png)
+
 
 2.	“August Peak Hours” bar chart - 
 August 2019 data suggests that there is more traffic during the summer months.  The peak hours for bike trips during the month of August are between 7am-8am and 5pm – 6pm.  This will help estimate how many bikes might be needed in Des Moines.
