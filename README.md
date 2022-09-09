@@ -47,7 +47,7 @@ Overall males exhibit more trip activity.  There is a visible trip consistency p
 7.	“User trips by Gender by Weekday heat map -
 Male subscriber’s category communicates the heaviest “user trips” throughout an entire week (Sunday to Saturday).
 
-![](https://github.com/Aggie01/Citi_bikesharing/blob/main/UserType2.jpg?raw=true)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/User_Trips_by_Gender_by_Weekdays.jpg?raw=true)
 
  ## Conclusions:
 -	Subscribers add stability to NYC Citi Bike program.  Revenue growth is more predictable with subscribers.
