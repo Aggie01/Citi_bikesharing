@@ -25,7 +25,7 @@ August 2019 data suggests that there is more traffic during the summer months.  
 3.	“Checkout time for Users” line chart -
 The peak time bikes are checked out for all riders is about 5-6 minutes at 140K bikes.  After that time, the number of bikes checked out drops drastically 
 
-![](Candidates%20election%20results.png)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Checkout_time_for_Users.jpg?raw=true)
     
 4.	“Checkout times for Gender” line chart -
 Males account for the most bike check out times.  Bike checkout for females shows less than half the amount for males
