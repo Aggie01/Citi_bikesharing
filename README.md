@@ -30,7 +30,8 @@ The peak time bikes are checked out for all riders is about 5-6 minutes at 140K 
 4.	“Checkout times for Gender” line chart -
 Males account for the most bike check out times.  Bike checkout for females shows less than half the amount for males
 
-![](https://github.com/Aggie01/Citi_bikesharing/blob/main/UserType2.jpg?raw=true)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Checkout_time_by_Gender1.jpg?raw=true)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/Checkout_time_by_Gender2.jpg?raw=true)
 
 5.	“Trips by weekdays for each hour” heat map -
 Mondays and Tuesdays from 5pm to 6pm show the most bike trips.  Thursdays and Fridays from 5pm to 6pm exhibit a similar pattern.  Mornings, in general, appear to be somewhat bike trip “balanced” across all five work days
