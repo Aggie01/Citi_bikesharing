@@ -14,6 +14,7 @@ Generate visualizations from the NYC Citi Bike data to help explore the possibil
 User Type pie chart reveals that there are significantly more “subscribers” than “customers”, 1,900,359 vs 443,865.  It is a “healthy” proportion since subscribers usually mean more stable revenue.  With close to two million of subscribers, NYC Citi bike program is in demand for those who seek affordable and convenient way to get around.  User type category easily demonstrates short and long-time usage behavior/loyalty to the program.  This can give some meaningful insights into what one could or should not expect in Des Moines 
 
 ![](https://github.com/Aggie01/Citi_bikesharing/blob/main/UserType1.jpg?raw=true)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/UserType1.jpg?raw=true)
 
 
 2.	“August Peak Hours” bar chart - 
