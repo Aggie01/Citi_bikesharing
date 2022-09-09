@@ -20,7 +20,7 @@ User Type pie chart reveals that there are significantly more “subscribers” 
 2.	“August Peak Hours” bar chart - 
 August 2019 data suggests that there is more traffic during the summer months.  The peak hours for bike trips during the month of August are between 7am-8am and 5pm – 6pm.  This will help estimate how many bikes might be needed in Des Moines.
 
-![](https://github.com/Aggie01/Citi_bikesharing/blob/main/UserType2.jpg?raw=true)
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/August_Peak_Hours.jpg?raw=true)
   
 3.	“Checkout time for Users” line chart -
 The peak time bikes are checked out for all riders is about 5-6 minutes at 140K bikes.  After that time, the number of bikes checked out drops drastically 
