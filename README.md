@@ -49,18 +49,21 @@ Male subscriber’s category communicates the heaviest “user trips” througho
 
 ![](https://github.com/Aggie01/Citi_bikesharing/blob/main/User_Trips_by_Gender_by_Weekdays.jpg?raw=true)
 
- ## Conclusions: 
+# Summary:
+ ## Conclusions 
  ## Dashboard summary [link to dashboard](https://public.tableau.com/app/profile/aggie.jasinski/viz/NYCCitiBikeSharingProgramDashboardSummary/NYCfinaldashboard?publish=yes) 
  
 -	Subscribers add stability to NYC Citi Bike program.  Revenue growth is more predictable with subscribers.
 -	Morning hours between 7am to 8am and evening 5pm to 6pm can be defined as “rush hour with high demand.”
 -	Based on August data, it can be concluded that the summer months exhibit the most bike traffic
 -	Males tend to dominate the NYC Citi Bike program.
-## Suggestions:
+## Suggestions
 -	Invest in customer tracking studies primarily focusing on the group’s needs and desires when it comes to biking
 -	Introduce strong customer incentives that would help turn users into subscribers
 -	Understand customers’ resistance to subscriptions
 -	Monitor subscribers’ needs and desires so they become longtime program loyalists
+- Future analysis of gender driven subscriptions is suggested. "What are the expectation that females vs males have that makes one group outnumber the other?" (see the visual below) 
+![](https://github.com/Aggie01/Citi_bikesharing/blob/main/User_Trips_by_Gender_by_Weekdays.jpg?raw=true)
 
   
   
